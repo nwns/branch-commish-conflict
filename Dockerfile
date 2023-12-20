@@ -1,1 +1,1 @@
-FROM %NOTANIMAGE%
+FROM debian:stable-slim@sha256:0b1b0c8f7fba9e0a2b9f7b6e9b1f8b6b9b1f8b6b9f8b6b9f8b6b9f8b6b9f8b
